@@ -8,10 +8,10 @@
 #include <WiFiClientSecure.h>
 #include <PubSubClient.h> // install with Library Manager, I used v2.6.0
 
-const char* ssid = "ARYAMAN";
-const char* password = "Aryaman@6060";
+const char* ssid = "*****";
+const char* password = "****";
 
-const char* awsEndpoint = "a2itom115cy0mv-ats.iot.eu-north-1.amazonaws.com";
+const char* awsEndpoint = "********";
 
 // Update the two certificate strings below. Paste in the text of your AWS 
 // device certificate and private key. Add a quote character at the start
